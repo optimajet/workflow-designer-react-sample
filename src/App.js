@@ -5,12 +5,11 @@ import WorkflowDesigner from '@optimajet/workflow-designer-react';
 
 function App() {
   // ---------- Parameters for Workflow Designer ---------------
-  const schemeCode = "WfeTest";
-  const processId = "204B2876-D749-4743-9D44-BA27BDBECC12";
+  const schemeCode = "SimpleWF";
+  const processId = "";
   const designerConfig = {
     renderTo: 'wfdesigner',
-    apiurl: 'http://localhost:5000/Designer/API',
-    templatefolder: './templates/',
+    apiurl: 'https://workflowengine.io/demo/Designer/API',
     widthDiff: 0,
     heightDiff: 0
   };
