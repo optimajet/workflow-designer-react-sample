@@ -1,6 +1,6 @@
 {
   "name": "workflow-designer-react-sample",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Designer for Workflow Engine React Sample",
   "keywords": [
     "designer",
@@ -15,7 +15,7 @@
   },
   "private": true,
   "dependencies": {
-    "@optimajet/workflow-designer-react": "^5.2.5",
+    "@optimajet/workflow-designer-react": "^5.2.6",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
