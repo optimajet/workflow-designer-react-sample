@@ -128,7 +128,7 @@ In this section:
 
 > **NOTE:** Be careful with the case of the characters when specifying the parameters. For example: `apiUrl` and `apiurl` are two completely different values.
 
-If you want to display the Workflow scheme in the Workflow Designer interface, set the required value to the `schemeсode` variable, and assign the `undefined` value to the `processId`. In case you want to display the Workflow process, assign the `undefined` value to the `schemecode`, and the required value to the `processId` variable of the WorkflowEngine process identifier.
+If you want to display the Workflow scheme in the Workflow Designer interface, set the required value to the `schemecode` variable, and assign the `undefined` value to the `processId`. In case you want to display the Workflow process, assign the `undefined` value to the `schemecode`, and the required value to the `processId` variable of the WorkflowEngine process identifier.
 
 Now, run the `npm start` command and your page will display something like that:
 ![Workflow Engine Designer Sample for React](./screens/good-result.png)
