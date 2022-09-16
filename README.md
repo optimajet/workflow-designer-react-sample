@@ -104,6 +104,7 @@ function App() {
   const designerConfig = {
     renderTo: 'wfdesigner',
     apiurl: '<YOUR_API_URL_VALUE>',
+    templatefolder: '/templates/',
     widthDiff: 0,
     heightDiff: 0
   };

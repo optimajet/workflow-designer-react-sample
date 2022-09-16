@@ -9,7 +9,7 @@ el.elementUILocalization = elElementUILocalization;
 // ---------- Parameters for Workflow Designer ---------------
 const props = {
   designerConfig: {
-    apiurl: 'https://workflowengine.io/demo/Designer/API',
+    apiurl: 'https://demo.workflowengine.io/Designer/API',
     name: 'wfe',
     language: 'en',
     customLocalization: [el]
