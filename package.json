@@ -1,6 +1,6 @@
 {
   "name": "workflow-designer-react-sample",
-  "version": "8.0.0",
+  "version": "8.1.0",
   "description": "Designer for Workflow Engine React Sample",
   "keywords": [
     "designer",
@@ -15,7 +15,7 @@
   },
   "private": true,
   "dependencies": {
-    "@optimajet/workflow-designer-react": "^8.0.0",
+    "@optimajet/workflow-designer-react": "^8.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.1"
